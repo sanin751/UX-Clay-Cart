@@ -1,0 +1,10 @@
+node_modules
+npm-debug.log
+.env
+.env.local
+coverage
+tests
+.git
+.gitignore
+uploads/*
+!uploads/.gitkeep
